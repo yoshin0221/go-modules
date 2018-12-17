@@ -1,1 +1,1 @@
-module github.com/go-modules/testmod
+module github.com/yoshin0221/go-modules/testmod
